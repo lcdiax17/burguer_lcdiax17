@@ -1,4 +1,4 @@
-<h1><a href="https://burger-ten-sigma.vercel.app/" target="blank">Link do repositório</a></h1>
+<h1><a href="https://burger-ten-sigma.vercel.app/" target="blank">Link do deploy</a></h1>
 
 ## Sobre o projeto
 
